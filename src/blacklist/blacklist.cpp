@@ -4,20 +4,20 @@
 #include "blacklist.h"
 #include "util.h"
 std::vector<std::string> blacklistedAddrs {
-    "XYe8FWCx6cdbN937xEuWxTJoFJCp9Zkpzz",
-    "XXx8Vc6R1zNKif2PMrTD67tTyvxnFwyrQq",
-    "XKSzmXVNbBPGNmhMZN69iwnQzqnwn6tsWG",
-    "XN9Rkq2ynVrudCVtiN5y8c7eKckzVmh3Zo",
-    "XHT8mbEtyYjudYE5cYAebEDonEKNy2JT6R",
-    "XTuQ14aW64ZmbntsiMvzas1DJenvSuQEtV",
-    "XCFGzEdAadCxrGWgRjU4t5JGbX8SaeCjtn",
-    "XBvQq5XRXmgR11zhLkTR5V3UpSaYq8uAnW",
-    "XXYKXBydQ6SvC62nMqTAxFDMst36PWv4pr",
-    "XByhXWTwnCh6sqzoZ1S8snygaAky4P4CLP",
-    "XWJEAiNKCad68ZV8oziVDWDun32NFsnoMZ",
-    "XYKvhXzxFrSyiqADL5xnBkhTPKCRNG9PxC",
-    "XRZL66HDWyGJ3QsurGcfykQuUyYBxNBBuz",
-    "XBvfaAah3KTzXND6vVhKRERUydNirsZzkC"
+    "XYe8FWCx6cdbN937xEuWxTJoFJCp9Zkpzz", // Premined DEV AlexXFSCore blacklisted
+    "XXx8Vc6R1zNKif2PMrTD67tTyvxnFwyrQq", // blacklisted
+    "XKSzmXVNbBPGNmhMZN69iwnQzqnwn6tsWG", // blacklisted
+    "XN9Rkq2ynVrudCVtiN5y8c7eKckzVmh3Zo", // blacklisted
+    "XHT8mbEtyYjudYE5cYAebEDonEKNy2JT6R", // blacklisted
+    "XTuQ14aW64ZmbntsiMvzas1DJenvSuQEtV", // blacklisted
+    "XCFGzEdAadCxrGWgRjU4t5JGbX8SaeCjtn", // blacklisted
+    "XBvQq5XRXmgR11zhLkTR5V3UpSaYq8uAnW", // blacklisted
+    "XXYKXBydQ6SvC62nMqTAxFDMst36PWv4pr", // blacklisted
+    "XByhXWTwnCh6sqzoZ1S8snygaAky4P4CLP", // blacklisted
+    "XWJEAiNKCad68ZV8oziVDWDun32NFsnoMZ", // blacklisted
+    "XYKvhXzxFrSyiqADL5xnBkhTPKCRNG9PxC", // blacklisted
+    "XRZL66HDWyGJ3QsurGcfykQuUyYBxNBBuz", // blacklisted
+    "XBvfaAah3KTzXND6vVhKRERUydNirsZzkC"  // blacklisted
 };
 bool ContainsBlacklistedAddr(std::string addr){
     //Iterate through blacklisted addresses
