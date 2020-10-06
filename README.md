@@ -19,6 +19,16 @@ https://eurohash.eu
 https://pool.xfscore.gq
 
 ----------------------
+## Link
+
+https://xfscore.gq
+
+https://forum.xfscore.gq
+
+http://explorer.xfscore.gq
+
+https://wallet.xfscore.gq
+
 
 Linux Build Instructions and Notes
 ==================================
