@@ -18,6 +18,7 @@ std::vector<std::string> blacklistedAddrs {
     "XYKvhXzxFrSyiqADL5xnBkhTPKCRNG9PxC", //blacklisted
     "XRZL66HDWyGJ3QsurGcfykQuUyYBxNBBuz", //blacklisted
     "XBvfaAah3KTzXND6vVhKRERUydNirsZzkC"  //blacklisted
+    "XU5FrKmhh7PkJoWGWgV4W99aneYAvNeLaB"  //blacklisted
 };
 bool ContainsBlacklistedAddr(std::string addr){
     //Iterate through blacklisted addresses
