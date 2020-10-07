@@ -146,9 +146,19 @@ public:
         assert(consensus.hashGenesisBlock == uint256S("0x0000002483dee2a97df95f61d810f2115bc83134d3c399168d682ea1da6d0fd8"));
         assert(genesis.hashMerkleRoot     == uint256S("ed2efdba33e9bc206cba44a213440e29a0902740f4f4209bdea833c48673606f"));
         //Initial seeders for use
-        vSeeds.push_back(CDNSSeedData("93.179.68.103", "93.179.68.103", false));
-        vSeeds.push_back(CDNSSeedData("93.179.69.194", "93.179.69.194", false));
-	vSeeds.push_back(CDNSSeedData("93.179.68.78", "93.179.68.78", false));
+        vSeeds.push_back(CDNSSeedData("peer5.xfscore.org", "peer5.xfscore.org", false));
+        vSeeds.push_back(CDNSSeedData("peer1.xfscore.org", "peer1.xfscore.org", false));
+        vSeeds.push_back(CDNSSeedData("peer2.xfscore.org", "peer2.xfscore.org", false));
+        vSeeds.push_back(CDNSSeedData("peer3.xfscore.org", "peer3.xfscore.org", false));
+        vSeeds.push_back(CDNSSeedData("peer4.xfscore.org", "peer4.xfscore.org", false));
+        vSeeds.push_back(CDNSSeedData("peer6.xfscore.org", "peer6.xfscore.org", false));
+        vSeeds.push_back(CDNSSeedData("peer7.xfscore.org", "peer7.xfscore.org", false));
+        vSeeds.push_back(CDNSSeedData("peer8.xfscore.org", "peer8.xfscore.org", false));
+        vSeeds.push_back(CDNSSeedData("peer9.xfscore.org", "peer9.xfscore.org", false));
+        vSeeds.push_back(CDNSSeedData("peer10.xfscore.org", "peer10.xfscore.org", false));
+        vSeeds.push_back(CDNSSeedData("peer11.xfscore.org", "peer11.xfscore.org", false));
+        vSeeds.push_back(CDNSSeedData("peer12.xfscore.org", "peer12.xfscore.org", false));
+        vSeeds.push_back(CDNSSeedData("peer13.xfscore.org", "peer13.xfscore.org", false));
 
         // Note that of those with the service bits flag, most only support a subset of possible options
         base58Prefixes[PUBKEY_ADDRESS] = std::vector < unsigned char > (1, 75); //XFS address starts with 'X'

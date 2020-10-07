@@ -3,7 +3,7 @@ XFS Core 1.0.0.3
 
 Setup
 ---------------------
-[XFS] (https://xfscore.gq/) is the original XFS client and it builds the backbone of the network. However, it downloads and stores the entire history of XFS transactions (which is currently several hundreds MBs); depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
+[XFS] (https://xfscore.org/) is the original XFS client and it builds the backbone of the network. However, it downloads and stores the entire history of XFS transactions (which is currently several hundreds MBs); depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
 
 Running
 ---------------------

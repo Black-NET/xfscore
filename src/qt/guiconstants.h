@@ -50,7 +50,7 @@ static const int MAX_URI_LENGTH = 255;
 #define SPINNER_FRAMES 36
 
 #define QAPP_ORG_NAME "XFS"
-#define QAPP_ORG_DOMAIN "xfscore.gq"
+#define QAPP_ORG_DOMAIN "xfscore.org"
 #define QAPP_APP_NAME_DEFAULT "XFS-Qt"
 #define QAPP_APP_NAME_TESTNET "XFS-Qt-testnet"
 
