@@ -1,24 +1,34 @@
 XFS
 ===============
 
-[![latest-release](https://img.shields.io/github/release/xfscore/wallet)](https://github.com/xfscore/releases)
-[![GitHub last-release](https://img.shields.io/github/release-date/xfscore/wallet)](https://github.com/xfscore/wallet/releases)
-[![GitHub downloads](https://img.shields.io/github/downloads/xfscore/wallet/total)](https://github.com/xfscore/wallet/releases)
-[![GitHub commits-since-last-version](https://img.shields.io/github/commits-since/xfscore/wallet/latest/master)](https://github.com/xfscore/wallet/graphs/commit-activity)
-[![GitHub commits-per-month](https://img.shields.io/github/commit-activity/m/xfscore/wallet)](https://github.com/xfscore/wallet/graphs/code-frequency)
-[![GitHub last-commit](https://img.shields.io/github/last-commit/xfscore/wallet)](https://github.com/xfscore/wallet/commits/master)
+[![latest-release](https://img.shields.io/github/release/Black-NET/xfscore)](https://github.com/Black-NET/xfscore/releases)
+[![GitHub last-release](https://img.shields.io/github/release-date/Black-NET/xfscore)](https://github.com/Black-NET/xfscore/releases)
+[![GitHub downloads](https://img.shields.io/github/downloads/Black-NET/xfscore/total)](https://github.com/Black-NET/xfscore/releases)
+[![GitHub commits-since-last-version](https://img.shields.io/github/commits-since/Black-NET/xfscore/latest/master)](https://github.com/Black-NET/xfscore/graphs/commit-activity)
+[![GitHub commits-per-month](https://img.shields.io/github/commit-activity/m/Black-NET/xfscore)](https://github.com/Black-NET/xfscore/graphs/code-frequency)
+[![GitHub last-commit](https://img.shields.io/github/last-commit/Black-NET/xfscore)](https://github.com/Black-NET/xfscore/commits/master)
 
 # Windows & Linux release binary
 
-https://github.com/xfscore/wallet/releases/tag/v1.0.0.4
+https://github.com/Black-NET/xfscore/releases/tag/v1.0.0.4
 
 ## Pools
 
 https://eurohash.eu
 
-https://pool.xfscore.org
+https://pool.xfscore.gq
 
 ----------------------
+## Link
+
+https://xfscore.gq
+
+https://forum.xfscore.gq
+
+http://explorer.xfscore.gq
+
+https://wallet.xfscore.gq
+
 
 Linux Build Instructions and Notes
 ==================================
@@ -49,7 +59,7 @@ Build
 ----------------------
 1.  Clone the source:
 
-        git clone https://github.com/xfscore/wallet
+        git clone https://github.com/Black-NET/xfscore
 
 2.  Build XFS Core:
 
