@@ -10,7 +10,7 @@ XFS
 
 # Windows & Linux release binary
 
-https://github.com/Black-NET/xfscore/releases/tag/v1.0.0.4
+https://github.com/Black-NET/xfscore/releases/tag/XFS.Core.v.1.0.0.4
 
 ## Pools
 
