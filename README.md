@@ -12,6 +12,15 @@ XFS
 
 https://github.com/Black-NET/xfscore/releases/tag/XFS.Core.v.1.0.0.4
 
+[![latest-release](https://xfscore.gq/assets/img.github/Download.xfs-qt-win.64.v.1.0.0.4.PNG)](https://github.com/Black-NET/xfscore/files/5348398/xfs-qt-win64.zip)[![GitHub downloads](https://img.shields.io/github/downloads/Black-NET/xfscore/total)](https://github.com/Black-NET/xfscore/files/5348398/xfs-qt-win64.zip)
+
+[![latest-release](https://xfscore.gq/assets/img.github/xfs-ubuntu18-binary.PNG)](https://github.com/Black-NET/xfscore/files/5348400/xfs-ubuntu18-binary.zip)[![GitHub downloads](https://img.shields.io/github/downloads/Black-NET/xfscore/total)](https://github.com/Black-NET/xfscore/files/5348400/xfs-ubuntu18-binary.zip)
+
+[![latest-release](https://xfscore.gq/assets/img.github/xfs-macos-binary.PNG)](https://github.com/Black-NET/xfscore/files/5348395/xfs-macos-binary.zip)[![GitHub downloads](https://img.shields.io/github/downloads/Black-NET/xfscore/total)](https://github.com/Black-NET/xfscore/files/5348395/xfs-macos-binary.zip)
+
+[![latest-release](https://xfscore.gq/assets/img.github/xfscore-source.PNG)](https://github.com/Black-NET/xfscore/archive/XFS.Core.v.1.0.0.4.zip)[![GitHub downloads](https://img.shields.io/github/downloads/Black-NET/xfscore/total)](https://github.com/Black-NET/xfscore/archive/XFS.Core.v.1.0.0.4.zip)
+
+
 ## Pools
 
 https://eurohash.eu
