@@ -8,6 +8,8 @@ XFS
 [![GitHub commits-per-month](https://img.shields.io/github/commit-activity/m/Black-NET/xfscore)](https://github.com/Black-NET/xfscore/graphs/code-frequency)
 [![GitHub last-commit](https://img.shields.io/github/last-commit/Black-NET/xfscore)](https://github.com/Black-NET/xfscore/commits/master)
 
+<a href="https://twitter.com/intent/follow?screen_name=MNproCoin"><img src="https://img.shields.io/twitter/follow/MNproCoin?label=XFSCore&style=social" alt="follow on Twitter"></a>
+
 # Windows & Linux release binary
 
 https://github.com/Black-NET/xfscore/releases/tag/XFS.Core.v.1.0.0.4
